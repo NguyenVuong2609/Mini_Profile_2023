@@ -86,10 +86,10 @@ a:hover {
   border-radius: 50%;
   width: 35px;
   height: 35px;
-  padding: 3px;
   margin-bottom: 10px;
   text-decoration: none;
   color: white;
+  padding: 5px;
 }
 
 .tm-brand-container {
